@@ -1,0 +1,11 @@
+[t3]
+FileName1=t3_responsive.css
+URL1=https://demowebshop.tricentis.com/Themes/DefaultClean/Content/responsive.css
+Total=1
+ContentType=text/css
+SnapshotXmlFile=snapshot_3.xml
+RequestHeaderFile=t3_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t3_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

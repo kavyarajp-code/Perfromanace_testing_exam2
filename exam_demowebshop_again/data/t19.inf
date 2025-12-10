@@ -1,0 +1,11 @@
+[t19]
+FileName1=t19_0000224_141-inch-laptop_125.png
+URL1=https://demowebshop.tricentis.com/content/images/thumbs/0000224_141-inch-laptop_125.png
+Total=1
+ContentType=image/png
+SnapshotXmlFile=snapshot_19.xml
+RequestHeaderFile=t19_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t19_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

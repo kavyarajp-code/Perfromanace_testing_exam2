@@ -1,0 +1,11 @@
+[t7]
+FileName1=t7_jquery-1.10.2.min.html
+URL1=https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_7.xml
+RequestHeaderFile=t7_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t7_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

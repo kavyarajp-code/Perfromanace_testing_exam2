@@ -1,0 +1,138 @@
+[
+    {
+        "actionName": "Register",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: demowebshop.tricentis.com",
+                "infFile": "t1.inf",
+                "time": 1765366362921
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: Register",
+                "infFile": "t2.inf",
+                "time": 1765366366536
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Submit Data: register",
+                "infFile": "t3.inf",
+                "time": 1765366367264
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "register",
+                "rawStartTime": 1765366366129,
+                "rawEndTime": 1765366367279,
+                "thinkTime": 0.0,
+                "wastedTime": 0.025902509689331056
+            }
+        ]
+    },
+    {
+        "actionName": "Login",
+        "steps": [
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: login",
+                "infFile": "t4.inf",
+                "time": 1765366367837
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Submit Data: login_2",
+                "infFile": "t5.inf",
+                "time": 1765366368602
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "login",
+                "rawStartTime": 1765366367310,
+                "rawEndTime": 1765366367850,
+                "thinkTime": 0.0,
+                "wastedTime": 0.006026029586791992
+            }
+        ]
+    },
+    {
+        "actionName": "Search",
+        "steps": [
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: searchtermautocomplete",
+                "infFile": "t6.inf",
+                "time": 1765366369176
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Url: searchtermautocomplete_2",
+                "infFile": "t7.inf",
+                "time": 1765366369570
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Url: searchtermautocomplete_3",
+                "infFile": "t8.inf",
+                "time": 1765366369888
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Url: search",
+                "infFile": "t9.inf",
+                "time": 1765366370747
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "search",
+                "rawStartTime": 1765366368622,
+                "rawEndTime": 1765366371014,
+                "thinkTime": 0.0,
+                "wastedTime": 0.04418134689331055
+            }
+        ]
+    },
+    {
+        "actionName": "Addtocart",
+        "steps": [
+            {
+                "stepId": "STEP10",
+                "stepName": "Custom Request: 1",
+                "infFile": "t10.inf",
+                "time": 1765366371667
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "addtocart",
+                "rawStartTime": 1765366371046,
+                "rawEndTime": 1765366371919,
+                "thinkTime": 0.0,
+                "wastedTime": 0.017236948013305665
+            }
+        ]
+    },
+    {
+        "actionName": "Logout",
+        "steps": [
+            {
+                "stepId": "STEP11",
+                "stepName": "Url: logout",
+                "infFile": "t11.inf",
+                "time": 1765366372736
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "logout",
+                "rawStartTime": 1765366371950,
+                "rawEndTime": 1765366372743,
+                "thinkTime": 0.0,
+                "wastedTime": 0.006282806396484375
+            }
+        ]
+    }
+]

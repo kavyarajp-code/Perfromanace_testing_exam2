@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Content-Length: 6796
+Content-Type: application/x-javascript
+Date: Wed, 10 Dec 2025 11:29:23 GMT
+Server: Microsoft-IIS/10.0
+Accept-Ranges: bytes
+Cache-Control: max-age=2073600
+Content-Encoding: gzip
+ETag: "80cd7480aa2d21:0"
+Last-Modified: Tue, 30 Aug 2016 10:37:27 GMT
+Vary: Accept-Encoding
+X-Powered-By: ASP.NET
+

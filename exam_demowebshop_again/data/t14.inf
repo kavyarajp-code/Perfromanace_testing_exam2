@@ -1,0 +1,11 @@
+[t14]
+FileName1=t14_public.ajaxcart.html
+URL1=https://demowebshop.tricentis.com/Scripts/public.ajaxcart.js
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_14.xml
+RequestHeaderFile=t14_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t14_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

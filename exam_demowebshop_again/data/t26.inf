@@ -1,0 +1,11 @@
+[t26]
+FileName1=t26_ui-bg_flat_75_ffffff_40x100.png
+URL1=https://demowebshop.tricentis.com/Content/jquery-ui-themes/smoothness/images/ui-bg_flat_75_ffffff_40x100.png
+Total=1
+ContentType=image/png
+SnapshotXmlFile=snapshot_26.xml
+RequestHeaderFile=t26_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t26_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

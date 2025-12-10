@@ -1,0 +1,11 @@
+[t20]
+FileName1=t20_top-menu-divider.png
+URL1=https://demowebshop.tricentis.com/Themes/DefaultClean/Content/images/top-menu-divider.png
+Total=1
+ContentType=image/png
+SnapshotXmlFile=snapshot_20.xml
+RequestHeaderFile=t20_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t20_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

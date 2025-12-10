@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Content-Length: 16116
+Content-Type: text/css
+Date: Wed, 10 Dec 2025 11:29:22 GMT
+Server: Microsoft-IIS/10.0
+Accept-Ranges: bytes
+Cache-Control: max-age=2073600
+Content-Encoding: gzip
+ETag: "80d523b0aa2d21:0"
+Last-Modified: Tue, 30 Aug 2016 10:38:47 GMT
+Vary: Accept-Encoding
+X-Powered-By: ASP.NET
+

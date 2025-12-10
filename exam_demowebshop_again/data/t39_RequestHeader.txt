@@ -1,0 +1,17 @@
+GET /catalog/searchtermautocomplete?term=computing+and+internet HTTP/1.1
+Host: demowebshop.tricentis.com
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://demowebshop.tricentis.com/registerresult/1
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en;q=0.9
+Cookie: Nop.customer=082defdc-ffb7-4c0d-ac6a-bffb37d5efa1; ARRAffinity=aeff9384aa58dd80a06097da55d76e7a00364bf1f86c5304e8c691754ded5177; __utma=78382081.254327912.1765366166.1765366166.1765366166.1; __utmc=78382081; __utmz=78382081.1765366166.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmt=1; __RequestVerificationToken=CX16kwkPgMuSj7acEU08BMZGx_pF_MRz7ggy5CauhuASwvXtuueUUcSKJguk9KSEQTuYQwnCNpqrYFDsghZdaXJXwPCmEitpTkxr_D4Aqp41; NOPCOMMERCE.AUTH=EA1C979796607A61A1938BD18665B955B6767551A27CBA28B3D4F6364A7B0AF289B837EC8B2417E4A32C9097F025102D6DD9E99736185483DBF1AF2B6002D6641EBA714DE4864E48D157E7853D9D952EB268DDB5524D8313E68808576E655E2A199FC56DDAA354A4AAAEB014914AACF2DCA7FDD33332290021020863DF3E72776F80CB050097A22E6931B8B6563EA21F869410940722F7D7E14B3B5224737332; __utmb=78382081.3.10.1765366166
+

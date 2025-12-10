@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Content-Length: 685
+Content-Type: image/png
+Date: Wed, 10 Dec 2025 11:29:25 GMT
+Server: Microsoft-IIS/10.0
+Accept-Ranges: bytes
+Cache-Control: max-age=2073600
+ETag: "7bcb74afaa2d21:0"
+Last-Modified: Tue, 30 Aug 2016 10:38:45 GMT
+X-Powered-By: ASP.NET
+

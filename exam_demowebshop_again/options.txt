@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Administrator\Documents\VuGen\Scripts\exam_demowebshop_again
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\administrator\documents\vugen\scripts\exam_demowebshop_again\\logfile.log
+c:\users\administrator\documents\vugen\scripts\exam_demowebshop_again\\combined_exam_demowebshop_again.c
+c:\users\administrator\documents\vugen\scripts\exam_demowebshop_again\\pre_cci.c

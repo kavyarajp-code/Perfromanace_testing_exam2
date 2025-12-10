@@ -1,0 +1,11 @@
+[t18]
+FileName1=t18_0000015_25-virtual-gift-card_125.jpg
+URL1=https://demowebshop.tricentis.com/content/images/thumbs/0000015_25-virtual-gift-card_125.jpeg
+Total=1
+ContentType=image/jpeg
+SnapshotXmlFile=snapshot_18.xml
+RequestHeaderFile=t18_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t18_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

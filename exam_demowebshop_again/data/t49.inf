@@ -1,0 +1,11 @@
+[t49]
+FileName1=t49.htm
+URL1=https://demowebshop.tricentis.com/login
+Total=1
+RequestHeaderFile=t49_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t49_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_49.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

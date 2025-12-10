@@ -1,0 +1,15 @@
+Start auto log messages stack - Iteration 2.	[MsgId: MMSG-10545]
+Login.c(22): web_submit_data("login_2") started  	[MsgId: MMSG-26355]
+Login.c(22): Redirecting "https://demowebshop.tricentis.com/login" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Login.c(22): To location "https://demowebshop.tricentis.com/"  	[MsgId: MMSG-26693]
+Login.c(22): web_submit_data("login_2") was successful, 8010 body bytes, 1167 header bytes  	[MsgId: MMSG-26386]
+Ending action Login.	[MsgId: MMSG-15918]
+Starting action Search.	[MsgId: MMSG-15919]
+Search.c(4): Notify: Transaction "search" started.	[MsgId: MMSG-16999]
+Search.c(6): web_add_header("Accept-Language") started  	[MsgId: MMSG-26355]
+Search.c(6): web_add_header("Accept-Language") was successful  	[MsgId: MMSG-26392]
+Search.c(9): web_url("ajax_loader_small.gif") started  	[MsgId: MMSG-26355]
+Search.c(9): Error -27720: Step download timeout (120 seconds) has expired when downloading resource "https://demowebshop.tricentis.com/Themes/DefaultClean/Content/images/ajax_loader_small.gif". Set the "Step Timeout caused by resources is a warning" Runtime Setting to Yes/No to have this message as a warning/error, respectively  	[MsgId: MERR-27720]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

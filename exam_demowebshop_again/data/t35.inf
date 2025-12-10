@@ -1,0 +1,11 @@
+[t35]
+FileName1=t35.htm
+URL1=https://demowebshop.tricentis.com/registerresult/1
+Total=1
+RequestHeaderFile=t35_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t35_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_35.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

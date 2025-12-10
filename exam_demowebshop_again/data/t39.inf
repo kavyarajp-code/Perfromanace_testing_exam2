@@ -1,0 +1,11 @@
+[t39]
+FileName1=t39_searchtermautocomplete.json
+URL1=https://demowebshop.tricentis.com/catalog/searchtermautocomplete?term=computing+and+internet
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_39.xml
+RequestHeaderFile=t39_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t39_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
